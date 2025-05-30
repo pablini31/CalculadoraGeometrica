@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pab20\\OneDrive\\Documentos\\repos\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj": {}
+    "C:\\Users\\lax_m\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pab20\\OneDrive\\Documentos\\repos\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj": {
+    "C:\\Users\\lax_m\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pab20\\OneDrive\\Documentos\\repos\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj",
+        "projectUniqueName": "C:\\Users\\lax_m\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj",
         "projectName": "CalculadoraGeometrica",
-        "projectPath": "C:\\Users\\pab20\\OneDrive\\Documentos\\repos\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj",
-        "packagesPath": "C:\\Users\\pab20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pab20\\OneDrive\\Documentos\\repos\\CalculadoraGeometrica\\CalculadoraGeometrica\\obj\\",
+        "projectPath": "C:\\Users\\lax_m\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj",
+        "packagesPath": "C:\\Users\\lax_m\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lax_m\\CalculadoraGeometrica\\CalculadoraGeometrica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pab20\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lax_m\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.2, )"
             }
           },
           "imports": [
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
