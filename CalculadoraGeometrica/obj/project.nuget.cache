@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwH7y+32Wco=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pab20\\OneDrive\\Documentos\\repos\\CalculadoraGeometrica\\CalculadoraGeometrica\\CalculadoraGeometrica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pab20\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\pab20\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

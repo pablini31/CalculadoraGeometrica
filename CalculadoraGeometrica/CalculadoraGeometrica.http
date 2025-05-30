@@ -1,0 +1,6 @@
+@CalculadoraGeometrica_HostAddress = http://localhost:5180
+
+GET {{CalculadoraGeometrica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
